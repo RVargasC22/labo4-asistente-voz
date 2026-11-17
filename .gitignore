@@ -1,0 +1,8 @@
+.venv/
+data_raw/
+data/
+*.zip
+__pycache__/
+.pytest_cache/
+audio_in/
+salida/

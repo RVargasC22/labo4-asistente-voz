@@ -1,0 +1,14 @@
+# Colab (T4). El notebook instala lo necesario; versiones usadas en local para desarrollo:
+pandas
+pyarrow
+rank_bm25
+sentence-transformers
+transformers
+bitsandbytes
+accelerate
+jiwer
+coqui-tts
+speechbrain
+pytest
+rapidfuzz
+num2words
